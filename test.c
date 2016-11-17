@@ -7,5 +7,7 @@ int main()
 
 	printf("try this\n");
 
+	printf("This was a big mistake...\n");
+
 	return 0;
 }
