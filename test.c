@@ -12,6 +12,8 @@ int main()
 	}
 
 	printf("Delete something this time.\n");
+	
+	printf("Add one more thing.\n");
 
 	return 0;
 }
