@@ -11,8 +11,7 @@ int main()
 		printf("Hello World\n");
 	}
 
-	printf("try this\n");
-	printf("Let's make some changes!\n");
+	printf("Delete something this time.\n");
 
 	return 0;
 }
